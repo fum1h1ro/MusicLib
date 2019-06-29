@@ -1,0 +1,6 @@
+@*
+.DS_Store
+*.flac
+*.mp3
+flac/*
+mp3/*
